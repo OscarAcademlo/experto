@@ -1,0 +1,25 @@
+.topmega{
+    width: 700px;
+   
+}
+.product{
+    display: flex;
+     gap: 40px;
+}
+.texto2{
+ 
+    text-align: justify;
+    justify-content: space-around;
+}
+@media screen and (max-width:700px){
+    .product{
+        display: flex;
+        flex-direction: column;
+        padding: 5px;
+        
+    }
+    .topmega{
+        width: 380px;
+    }
+
+}

@@ -1,0 +1,36 @@
+
+.home{
+    min-height:100vh;
+    text-align: center;
+
+    
+    
+}
+.foto_home{
+    width: 1000px;
+    aspect-ratio: 1;
+margin-top: auto;    
+}
+h1{
+    text-align: center;
+}
+.titulo{
+    margin-top: 20px;
+    margin-bottom: 80px;
+
+}
+.texto{
+    margin-left: 40px;
+    text-align: justify;
+    width: 50%;
+}
+
+.lugar{
+    width: 700px;
+    aspect-ratio: 2/1;
+    
+    }
+    .textfooter{
+        margin-bottom: 80px;
+    }
+    

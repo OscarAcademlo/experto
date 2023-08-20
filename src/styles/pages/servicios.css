@@ -1,0 +1,23 @@
+.img3{
+    width:  752px;
+    aspect-ratio: 1;
+}
+.serv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+h3{
+    text-align: justify;
+}
+@media  (max-width:700px){
+    .serv{
+        display: flex;
+        flex-direction: column;
+    }
+  .img3{
+    width: 380px;
+    justify-content: center;
+  }
+
+}
